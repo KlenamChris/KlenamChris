@@ -4,10 +4,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KlenamChris&style=for-the-badge)
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fklenam-chris.vercel.app&label=My+Portfolio&color=blue)](https://klenam-chris.vercel.app)
+[![wakatime](https://wakatime.com/badge/user/8611cfb5-c193-4693-85b3-439631e67f06.svg?style=for-the-badge)](https://wakatime.com/@8611cfb5-c193-4693-85b3-439631e67f06)
 ---
 
-### **[Check out my full portfolio → klenamchris.com](https://)**
+### **[Check out my full portfolio → klenamchris.com](https://klenam-chris.vercel.app)**
 
+*a software engineer dedicated to writing clear, accessible code that prioritizes simplicity and ease of understanding.*
+
+---
 
 
 </div>
