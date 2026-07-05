@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&center=true&vCenter=true&width=500&lines=Hey+there%2C+My+name+is+Klenam+Chris+%F0%9F%91%8B;I'm+a+Magician+%F0%9F%AA%84;My+favorite+language+is+Python%F0%9F%90%8D;I+love+Music+%F0%9F%8E%B6;Welcome+to+my+GitHub+Profile+%F0%9F%98%81)
 
-<!--
-**KlenamChris/KlenamChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=KlenamChris&style=for-the-badge)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fklenam-chris.vercel.app&label=My+Portfolio&color=blue)](https://klenam-chris.vercel.app)
+---
 
-Here are some ideas to get you started:
+### **[Check out my full portfolio → klenamchris.com](https://)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</div>
